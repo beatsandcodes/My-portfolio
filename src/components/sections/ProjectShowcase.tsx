@@ -28,7 +28,7 @@ const featuredProjects: ProjectProps[] = [
   {
     title: "Pocket Derma",
     description: "An AI-powered skincare recommendation platform focused on trust, clarity, and personalized care. Making medical-adjacent interfaces feel emotionally safe and understandable.",
-    url: "https://pocketderma.lovable.app",
+    url: "https://pocketderma.vercel.app/",
     role: "Product, Engineering, AI Integration",
     year: "2024",
     focus: ["Healthcare UX Trust", "AI Recommendation Engine", "Conversational UX", "Calm Visual Hierarchy"],

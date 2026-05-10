@@ -30,7 +30,6 @@ const featuredProjects: ProjectProps[] = [
     description: "An AI-powered skincare recommendation platform focused on trust, clarity, and personalized care. Making medical-adjacent interfaces feel emotionally safe and understandable.",
     url: "https://pocketderma.lovable.app/",
     role: "Product, Engineering, AI Integration",
-    year: "2024",
     focus: ["Healthcare UX Trust", "AI Recommendation Engine", "Conversational UX", "Calm Visual Hierarchy"],
   },
   {
@@ -38,7 +37,6 @@ const featuredProjects: ProjectProps[] = [
     description: "A visually immersive showcase experience for a local crochet business. Built to tell a story through the interface with high-craft digital aesthetics and premium presentation.",
     url: "https://thesoftloops.vercel.app",
     role: "Design & Frontend",
-    year: "2024",
     focus: ["Emotional Commerce", "Immersive Motion Systems", "Cinematic Scrolling", "Frontend Craftsmanship"],
   },
   {
@@ -46,7 +44,6 @@ const featuredProjects: ProjectProps[] = [
     description: "A real-time conversational AI system built for the Gemini Live Agent Challenge. Focusing on sub-second voice interactions and multimodal workflows.",
     github: "https://github.com/beatsandcodes/ai-gemini-live-support-agent",
     role: "AI & Full-stack",
-    year: "2024",
     focus: ["Sub-second Voice", "Multimodal AI", "Autonomous Function Calling", "Ambient UX"],
   },
   {
@@ -54,7 +51,6 @@ const featuredProjects: ProjectProps[] = [
     description: "An automated Telegram bot that transforms long audio tracks into viral, short-form marketing clips with perfectly timed subtitles, and auto posts to Instagram and YouTube.",
     github: "https://github.com/beatsandcodes/Music-marketing-bot",
     role: "AI Automation",
-    year: "2024",
     focus: ["AI Automation", "Audio Analysis", "Video Generation", "Social Integrations"],
   }
 ].map(project => ({

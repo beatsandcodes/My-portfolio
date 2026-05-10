@@ -28,15 +28,16 @@ export function About() {
                 <div className="glass-card p-6 md:p-8 rounded-2xl border-white/5">
                   <h3 className="text-white/90 text-sm font-medium tracking-wide uppercase mb-4">The Convergence</h3>
                   <p className="text-white/50 leading-relaxed font-light text-sm">
-                    Today, I bring 7 years of experience in the creative ecosystem into software—where I’ve generated 29M+ hits, built a five-figure business without paid ads, and worked across fast-moving creative and technical workflows. I approach software with a balance of engineering, product thinking, and design sensitivity, building systems and experiences that are intuitive, scalable, detail-oriented, and grounded in real user behavior
+                    Today, I bring 7 years of experience in the creative ecosystem into software—where I’ve generated 29M+ hits, built a five-figure business without paid ads, and worked across fast-moving creative and technical workflows. I apply all my creative learnings into tech with a balance of engineering, product thinking, and design sensitivity, building systems and experiences that are intuitive, scalable, detail-oriented, and 
+                    grounded in real user behavior.
                   </p>
                 </div>
                 <div className="glass-card p-6 md:p-8 rounded-2xl border-white/5">
                   <h3 className="text-white/90 text-sm font-medium tracking-wide uppercase mb-4">AI-Native Execution</h3>
                   <p className="text-white/50 leading-relaxed font-light text-sm">
-                    My stack centers around speed and quality. Using tools like Claude, Cursor, and the 
-                    Gemini API, alongside React and Tailwind, I dramatically accelerate product development. 
-                    I don't just prototype—I ship deeply polished, end-to-end applications independently.
+                    My workflow is centered around speed, taste, and execution. Using AI native tools like ChatGPT, Claude, Anti-gravity, and Lovable alongside React and Tailwind, 
+                    I rapidly build and refine products without compromising quality. 
+                    I focus on shipping polished, end to end experiences independently while blending engineering, product thinking, and design sensitivity into everything I create.
                   </p>
                 </div>
               </div>
